@@ -1,1 +1,4 @@
-# aws-devops
+# AWS DevOps
+> Team Tinitiate
+* AWS Services
+* 
